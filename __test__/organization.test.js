@@ -11,8 +11,13 @@ class DirectoryValidator {
             ".php": "html",
             ".css": "css",
             ".jpg": "image",
+            ".jpeg": "image",
             ".png": "image",
             ".gif": "image",
+            ".bmp": "image",
+            ".tiff": "image",
+            ".svg": "image",
+            ".webp": "image",
             ".js": "js"
             // Add other extensions as needed...
         };
