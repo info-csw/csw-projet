@@ -22,7 +22,7 @@ Assurez-vous de respecter les critères suivants lors du développement de votre
 
 ## **Validation du Sujet**
 
-Avant de vous lancer pleinement dans le développement, votre concept devra être validé par l'enseignant en laboratoire. C'est une étape cruciale pour vous assurer que vous êtes sur la bonne voie. La validation devra être faites avant le vendredi 10/11/2023.
+Avant de vous lancer pleinement dans le développement, votre concept devra être validé par l'enseignant en laboratoire. C'est une étape cruciale pour vous assurer que vous êtes sur la bonne voie. La validation devra être faite avant le vendredi 17/11/2023.
 
 ## **Défense du Travail**
 
