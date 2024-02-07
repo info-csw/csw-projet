@@ -22,8 +22,10 @@ Assurez-vous de respecter les critères suivants lors du développement de votre
 
 ## **Validation du Sujet**
 
-Avant de vous lancer pleinement dans le développement, votre concept devra être validé par l'enseignant en laboratoire. C'est une étape cruciale pour vous assurer que vous êtes sur la bonne voie. La validation devra être faite avant le vendredi 17/11/2023.
+Avant de vous lancer pleinement dans le développement, votre concept devra être validé par l'enseignant en laboratoire. C'est une étape cruciale pour vous assurer que vous êtes sur la bonne voie. La validation devra être faite avant le mercredi 28/02/2024.
 
 ## **Défense du Travail**
 
-La dernière semaine de laboratoire, soit la semaine du 18 décembre 2023, vous serez invités à défendre votre projet. Vous présenterez votre interface, expliquerez vos choix, démontrerez votre connaissance du code et comment vous avez respecté les points d'attention énumérés ci-dessus.
+Une version définitive de votre projet doit être sur github pour le mercredi 01 mai 2024 en fin de journée.
+
+Soit la dernière semaine de cours, soit en session de juin, vous serez invités à défendre votre projet. Vous présenterez votre interface, expliquerez vos choix, démontrerez votre connaissance du code et comment vous avez respecté les points d'attention énumérés ci-dessus.
